@@ -2,6 +2,8 @@
 
 A stunning weather app with animated backgrounds, built with React, TypeScript, MobX, and Material UI.
 
+🚀 **Live demo:** [weather-app-project-by-merdan.netlify.app](https://weather-app-project-by-merdan.netlify.app/)
+
 ## Tech Stack
 
 - **React 18** + **TypeScript**
